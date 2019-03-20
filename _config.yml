@@ -3,3 +3,6 @@ description: A quick lesson to recognizing errors in Python.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-modernist
+navbar-links:
+  Exercise 1: "1"
+  Exercise 2: "2"
