@@ -25,4 +25,6 @@ In exercise 1, you were introduced to an error that prevented the Python script 
 
 Take a moment to change the code further such as changing the abreviated variable name kmh to kilometersperhour or cat in line 1 and 3 to see what happens.
 
+Once you have completed the lesson please reset the code back to have the word speed spelled sped in line 3 and the variable milesperhour spelled milesperour in line 3 for the next participant.
+
 
