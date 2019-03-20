@@ -2,7 +2,4 @@ title: What's wrong with the code?
 description: A quick lesson to recognizing errors in Python.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-tactile
-navbar-links:
-  Exercise 1: "1"
-  Exercise 2: "2"
+theme: jekyll-theme-hacker
