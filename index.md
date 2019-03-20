@@ -1,6 +1,6 @@
 This lesson provides an opportunity to see what simple spelling issues can do when running Python code. This website has an embedded Python script runner for running basic Python code. Please use the Python script runner to address two problems that have been introduced in the code.
 
-This Python script provide in the left-hand box converts speed from KM/H to MPH, which may be handy for calculating speed limits when driving abroad, especially for UK and US drivers. 
+This Python script provided in the left-hand box converts speed from KM/H to MPH, which may be handy for calculating speed limits when driving abroad, especially for UK and US drivers. 
 
 Note: The conversion formula for kph to mph is : 1 kilometre = 0.621371192 miles
 
