@@ -16,7 +16,9 @@ Note: The conversion formula for kph to mph is : 1 kilometre = 0.621371192 miles
 
 ## Exercise 2
 * Try to fix the code
-  1. Correct the name issue in the code <button tooltip=”milesperhour is miss spelled” tooltip-position=”left”> Hint !! </button>
+  1. Correct the name issue in the code <div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
   2. Click the <img src="https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_168,f_auto,q_auto/v1507227463/play-pause-in-css_5_eqomuf.png" width="10" height="10" /> play button in the script runner.
   2. Place your mouse cursor in the right box of the script runner and type in 50.
   3. Press enter on your keyboard. (Note the error message)
