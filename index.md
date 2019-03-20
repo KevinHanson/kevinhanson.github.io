@@ -7,7 +7,7 @@ This Python script in the left hand box converts speed from KM/H to MPH, which m
 Note: The conversion formula for kph to mph is : 1 kilometre = 0.621371192 miles
 
 * Run the code
-  1. Click the ![](https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_168,f_auto,q_auto/v1507227463/play-pause-in-css_5_eqomuf.png =10x10)
+  1. Click the ![](https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_168,f_auto,q_auto/v1507227463/play-pause-in-css_5_eqomuf.png width="10" height="10")
 
 
 
