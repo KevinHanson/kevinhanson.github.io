@@ -22,11 +22,9 @@ Note: The conversion formula for kph to mph is : 1 kilometre = 0.621371192 miles
   
 ### Reflection
 
-In exercise 1, you were introduced to an error that prevented the Python script from running and in exercise 2 you had hints to allow you to fix the code. These two misspelled words caused different issues. The word speed in the example Python script acts as a label that is printed to the screen in the Python print command. However, the word milesperhour is a variable name. When the variable name is misspelled in exercise 1 it causes the entire program to not function. 
+In exercise 1, you were introduced to an error that prevented the Python script from running and in exercise 2 you had hints to allow you to fix the code. These two misspelled words caused different issues as it affect different functions of the Python code. The word speed in the example Python script is a string which prints as a label on the screen in the Python print command. However, the word milesperhour is a variable name. When the variable name is misspelled in exercise 1 it causes the entire program to not work. In Python, a variable name has to be referenced or called using the same name once the variable is defined in code. 
  
-Take a moment to change the code further such as changing the abbreviated variable name kmh to kilometersperhour or cat in line 1 and 3 to see what happens.
+Take a moment to change the code further such as changing the abbreviated variable name kmh to kilometersperhour or fastcat in line 1 and 3 to see what happens.
 
-### Please
-Once you have completed the lesson please reset the code back to have the word speed spelled sped in line 3 and the variable milesperhour spelled milesperour in line 3 for the next participant.
 
 
